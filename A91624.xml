@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the northern associations: communicating to the whole kingdome their miseries, desires and resolutions. Their miseries many. Their desires few. Their resolutions irrevocable.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91624</idno>
+            <idno type="STC">Wing R1007</idno>
+            <idno type="STC">Thomason E414_12</idno>
+            <idno type="STC">ESTC R203385</idno>
+            <idno type="EEBO-CITATION">99863353</idno>
+            <idno type="PROQUEST">99863353</idno>
+            <idno type="VID">115548</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91624)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115548)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E414[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the northern associations: communicating to the whole kingdome their miseries, desires and resolutions. Their miseries many. Their desires few. Their resolutions irrevocable.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The words "Their miseries Their desires Their resolutions" and "many. few. irrevocable." are bracketed together on title page.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115548:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>A REMONSTRANCE OF THE Northern Aſſociations:</p>
+            <p>Communicating to the whole King<g ref="char:EOLhyphen"/>dome their Miſeries, Deſires and Reſolutions.</p>
+            <p>Their Miſeries many.<lb/>
+Their Deſires few.<lb/>
+Their Reſolutions irrevocable.</p>
+            <p>Printed <hi>Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115548:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb n="3" facs="tcp:115548:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>A REMONSTRANCE OF THE <hi>Northern Aſsociations, &amp;c.</hi>
+            </head>
+            <p>IT is not unknown unto theſe Weſtern parts of the world, into what a deplorable condi<g ref="char:EOLhyphen"/>tion this Kingdom, together with <hi>Scotland,</hi> and diſtreſſed <hi>Ireland,</hi> of late yeers have been implunged; and what eaſe, relaxation, or as yet hope of peace, or reducement of an unhappy peo<g ref="char:EOLhyphen"/>ple, into their former ſafety, enjoyed properties, appeareth not yet ſo much as any ſhadow of hope.</p>
+            <p>From what principles, theſe bloody and unpa<g ref="char:EOLhyphen"/>ralleld differences had their firſt touch and pro<g ref="char:EOLhyphen"/>greſs (except our ſins) to the general ruin of ma<g ref="char:EOLhyphen"/>ny millions, both in perſon and eſtate, we know as little as the concluſion of them; neither (were they obvious to our knowledg) are we willing to rip up old ſores, or uncharitably to uncover to the
+<pb n="4" facs="tcp:115548:3"/>
+               <!-- PDF PAGE 10 -->
+publike eye, the weakneſs (we ſay not wickedneſs) of our brethren; only thus, as co-partners of a moſt agreived Communalty, we are made ſenſible of our ruin, under the glorious outſides of a pro<g ref="char:EOLhyphen"/>miſed happineſs. We were not unacquainted of thoſe innumerable and inceſſant revolutions of promiſes, often engagements, and too many pre<g ref="char:EOLhyphen"/>tences, and ſeemingly real Charracters of affecti<g ref="char:EOLhyphen"/>on, both from the Royal and Parliamentary Par<g ref="char:EOLhyphen"/>ties: We have not yet forgot the many <hi>Remon<g ref="char:EOLhyphen"/>strances, Declarations, Exhibitions,</hi> with their annext Commands, either to ingage or diſingage us, which we have at ſeveral times, on al opportunitys, receivd unto a double intereſt; each tying us (accor<g ref="char:EOLhyphen"/>ding to their prevalence) to different reſpects, &amp; the fatal Tragedy, and mutual deſtruction of each o<g ref="char:EOLhyphen"/>ther: We yet remember thereupon, the ſetling our ſelves upon a mixt-confuſed poſture, to a de<g ref="char:EOLhyphen"/>fenſive War; and how of united friends and neigh<g ref="char:EOLhyphen"/>bours (by diſpartite affection to each cauſe) we were divided into enemies. It is yet freſh colou<g ref="char:EOLhyphen"/>red in our memories, the bloody iſſue of the King<g ref="char:EOLhyphen"/>dom, eſpecially of theſe Northern parts; how when all paſſages of Peace were ſtopped up, we were enforced to ſwim through a red Sea, mixed with the blood of our deareſt brethren, to repur<g ref="char:EOLhyphen"/>chaſe it. We are not inſenſible (looking back into our days, &amp; comparing the former with the pre<g ref="char:EOLhyphen"/>ſent condition of our being) that the burthens (which then we patiently indured) were but mole<g ref="char:EOLhyphen"/>hills to the mountanous preſſures, which now we
+<pb n="5" facs="tcp:115548:3"/>
+               <!-- PDF PAGE 10 -->
+are cruſhed under; Nevertheleſs, we ſhould ac<g ref="char:EOLhyphen"/>count it (though an embittered) happineſs to looſe our Parents, Children, Friends, Eſtates, could we but perceive the leaſt beam of Redemp<g ref="char:EOLhyphen"/>tion from this miſerable thraldom yet ariſe unto us; but alas! our eyes are even dim with expecta<g ref="char:EOLhyphen"/>tion, being as far from hope as we are far from hap<g ref="char:EOLhyphen"/>py. We have conſidered the many Oaths and Proteſtations tendred to us, approved and accep<g ref="char:EOLhyphen"/>ted of us; above all, that <hi>Solemn Covenant</hi> taken with hands (we ſay not hearts) lift up to heaven, as the inſtrument of mercy or miſery, a bleſſing or a curſe upon the violation of performance of it; but (to the ſadding of our ſouls) we ſee the Pil<g ref="char:EOLhyphen"/>lars and Foundation of it ſhaken; and thoſe un<g ref="char:EOLhyphen"/>hing'd from their principles, who firſt gave life and motion to it. <hi>This National ſin, wil produce a National judgment.</hi>
+            </p>
+            <p>We eaſily foreſee the extirpation of Monarchy, under which we and our progenitors have enjoyed ſo many calmed years of external Freedom and Tranquility; we ſee the ſubverſion of our Funda<g ref="char:EOLhyphen"/>mental Laws, Cuſtomary Immunities and Muni<g ref="char:EOLhyphen"/>cipal Priviledges deriv'd to us and our poſterity as our proper Birth-rights, (if not prevented) by a mutatitious and tyrannical <hi>Equaity</hi> level with us, if not inferior to us. We ſee Religion turn'd out of her garments of needle-work and wrought gold, in<g ref="char:EOLhyphen"/>to a linſey-wolſey, ſtupious and an unclean veſture; painted over with reſemblances &amp; meer ſhadows of truth; precipitating into Anarchy, any thing, every thing that may ſpeak this poor Kingdom the object of
+<pb n="6" facs="tcp:115548:4"/>
+               <!-- PDF PAGE 11 -->
+ſhame and pity; and all this (contrary to Cove<g ref="char:EOLhyphen"/>nant) countenanced, if not authorized, by that ſu<g ref="char:EOLhyphen"/>perior Power elected only for the eſtabliſhing of our Peace, confirmation of our Priviledges, re<g ref="char:EOLhyphen"/>moval of our grievances, and the diſſipating of all thoſe thick fogs of Error, Tyranny, and Divi<g ref="char:EOLhyphen"/>ſion, which hitherto dictates nothing but our ruin, and overclouds that glory yet deducible to an once flouriſhing Church and Commonwealth.</p>
+            <p>Theſe things ſeriouſly and ſadly debated in our hearts, and weighing our paſt and preſent calami<g ref="char:EOLhyphen"/>ties with our imminent deſtruction, impending for the future, not by accident but by evident de<g ref="char:EOLhyphen"/>monſtration; we are bold to preſent the inſides of ſouls to all our Brethren and Concomitants in this common miſery.</p>
+            <p>Firſt, That we do wiſh and ever ſhal endeavor the honor, ſafety and preſervation of his Majeſties perſon, power and juſt derived Rights, according to our Oaths and Covenant, without any mental evaſions or ſecret reſervations; deſiring only to live under his Kingly Government and Protection, and the Government and Protection of his Royal Iſſue after him, according to the ancient Laws e<g ref="char:EOLhyphen"/>ſtabliſhed in this Kingdom.</p>
+            <p>Secondly, We ſhal to our uttermoſt defend and maintain the power of Parliaments and their law<g ref="char:EOLhyphen"/>ful Priviledges, as being the only viſible <hi>Interpo<g ref="char:EOLhyphen"/>ration</hi> of the <hi>Kingdom,</hi> from whom, and from his Majeſty, as from the Fountain and pure Channel, may flow th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe wholeſom Courſes of good Laws
+<pb n="7" facs="tcp:115548:4"/>
+               <!-- PDF PAGE 11 -->
+and Juſtice, that we his people and our ſucceeding generations may live in peace all our dayes.</p>
+            <p>Thirdly, We ſhal with our beſt of power op<g ref="char:EOLhyphen"/>poſe all Arbitrary and Tyrannical Uſurpation, Government, or Dominion <hi>Military</hi> or <hi>Politick</hi> that may or ſhal produce alteration, detriment or nullity of any Fundamental Law, legal Act or Acts (yet unrepealed) heretofore confirmed by Autho<g ref="char:EOLhyphen"/>rity of King and Parliament.</p>
+            <p>Fourthly, We ſhal with our hearts profeſs, and with the hazard of our deareſt blood protect the true and truly received <hi>Proteſtant Religion,</hi> in the truth and ſubſtance of it, as it hath been imbraced by, and communicated to us and our progenitors; deſiring ſuch holy Diſcipline may be exerciſed (hauing reſpect to Decency and Order) as may keep the unity of the Spirit in the bond of peace.</p>
+            <p>Moreover, ſeeing as we dayly grow, ſo we dayly groan under the unſupportable weight of Oppreſ<g ref="char:EOLhyphen"/>ſion, Taxes, Free-quarter, (beſides murders, ra<g ref="char:EOLhyphen"/>pines, robberies, not mentioning the deep exhau<g ref="char:EOLhyphen"/>ſtings during the late time of War, and ſince, both by the Engliſh and Scottiſh Forces, no part of the Kingdom being ſo infeſted) we humbly deſire a ſpeedy alleanement and retardation thereof; that yet (if it be poſſible) we may have bread to ſuſtain the lives of our poor wives and children; many thouſands being ready to periſh through want, and unable to ſupport themſelvs, much leſs of power to ſupply the rigid deſires and demands of an uſeleſs and inſaturate Souldiery; elſe we ſhal be enforced,
+<pb n="6" facs="tcp:115548:5"/>
+               <!-- PDF PAGE 12 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:115548:5"/>
+               <!-- PDF PAGE 12 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:115548:6"/>
+               <!-- PDF PAGE 13 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:115548:6"/>
+               <!-- PDF PAGE 13 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:115548:7"/>
+               <!-- PDF PAGE 14 -->
+through neceſſity (heaven knows our unwilling<g ref="char:EOLhyphen"/>neſs) to acquit our ſelves (by the readieſt way) of our any longer tolerable calamities, and pur<g ref="char:EOLhyphen"/>chaſe freedom, though with the Sacrifice of our deareſt blood. Nature obliging in the behalf of our ſelves and ours to exchange a miſerable and diſconſolate life, for a happy and honourable death. And we doubt not, but that all our faithful fellow Commoners, as wel in the South as Northern parts, being equally ſharers with us in our ſuffer<g ref="char:EOLhyphen"/>ings, as joynt Members of one languiſhing body, wil not only be partakers in our firm reſolves, (which no affliction ſhal cauſe us to deſert) but al<g ref="char:EOLhyphen"/>ſo communicate their aſſiſtance; to the re-inthro<g ref="char:EOLhyphen"/>ning of his Majeſty, the ſecuring and protecting of <hi>Parliaments,</hi> the <hi>Maintenance</hi> of the <hi>Laws,</hi> the <hi>Con<g ref="char:EOLhyphen"/>firmation</hi> of the true <hi>Religion,</hi> the freedom of our Eſtates and Liberties from <hi>Uſurpation,</hi> and the re<g ref="char:EOLhyphen"/>newing that ancient and ſweet Peace (now viola<g ref="char:EOLhyphen"/>ted) to the Glory of God, the Honour of his Majeſty, and the general rejoycing of all his faith<g ref="char:EOLhyphen"/>ful and loyal Subjects.</p>
+            <closer>
+               <signed>Subſcribed with the Hands of <hi>164247,</hi> within the Northern Aſſociations.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
